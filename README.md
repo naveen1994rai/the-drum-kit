@@ -1,5 +1,5 @@
 # Summary
-A simple yet powerful virtual drum kit made with HTML5, CSS and JS. 
+A simple yet powerful virtual drum kit made with HTML5, CSS, DOM and JS. 
 
 ## How To
 Click on the available buttons or use the keys w,a,s,d,j,k,l to play a sound of your choice.
